@@ -1,0 +1,22 @@
+{
+  "name": "@bizfty/logger",
+  "version": "0.0.1",
+  "description": "logger javascript",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bizfty/logger.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "johnson.s.zhang@foxmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bizfty/logger/issues"
+  },
+  "homepage": "https://github.com/bizfty/logger#readme"
+}
